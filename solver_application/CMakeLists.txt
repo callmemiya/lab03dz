@@ -9,3 +9,4 @@ include_directories(../formatter-ex-lib)
 add_subdirectory(../formatter_ex_lib formatter_ex)
 add_library(solver_lib STATIC ../solver_lib/solver.cpp ../solver_lib/solver.h)
 target_link_libraries(solver solver_lib formatter_ex)
+
