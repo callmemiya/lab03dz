@@ -1,0 +1,3 @@
+/Users/mariazabrodina/callmemiya/workspace/projects/lab03dz/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
+/Users/mariazabrodina/callmemiya/workspace/projects/lab03dz/formatter_lib/_build/CMakeFiles/edit_cache.dir
+/Users/mariazabrodina/callmemiya/workspace/projects/lab03dz/formatter_lib/_build/CMakeFiles/formatter.dir
